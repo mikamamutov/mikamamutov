@@ -1,11 +1,10 @@
-## Hi there 👋
+![mid qual mid dim ](https://github.com/user-attachments/assets/33ca0d32-ee2d-43a8-a705-ba1e61bac58b)
+
 
 <!--
 **mikamamutov/mikamamutov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.'
 
 My first python project NYC Crime
-
-![mid qual mid dim ](https://github.com/user-attachments/assets/097065da-d69d-4573-a4da-49293ab3c414)
 
 
 Here are some ideas to get you started:
